@@ -126,7 +126,7 @@ This project is open-source and available under the MIT License.
 ---
 
 <p align="center">
-  Made with ❤️ by a RAJ
+  Made with ❤️ by  RAJ
 </p>
 
 ```
