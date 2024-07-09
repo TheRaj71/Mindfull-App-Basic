@@ -4,6 +4,12 @@
 
 This Flutter project is a simple mindfulness breathing application designed to help users practice controlled breathing exercises. As a learning project, it demonstrates various Flutter concepts and widgets while providing a practical, usable app.
 
+## Download
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://github.com/TheRaj71/Mindfull-App-Basic/releases/download/Base/Mindfull.v1.0.apk)
+
+Click the badge above to download the latest version of the Mindfulness Breathing App.
+
 ## Features
 
 - 5-minute guided breathing session
@@ -38,6 +44,8 @@ To run this project:
 2. Clone this repository
 3. Run `flutter pub get` to install dependencies
 4. Use `flutter run` to start the app on your connected device or emulator
+
+Alternatively, you can directly download and install the APK on your Android device using the download link provided above.
 
 ## Future Improvements
 
